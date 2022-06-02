@@ -7,8 +7,11 @@ You can use the [editor on GitHub](https://github.com/UO-CIT-qiqima/qiqim.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [cit281-lab-1](https://github.com/UO-CIT-qiqima/cit281-lab-1)
+
 [cit281-lab-2](https://github.com/UO-CIT-qiqima/cit281-lab-2)
+
 [cit281-lab-3](https://github.com/UO-CIT-qiqima/cit281-lab-3)
+
 [cit281-lab-4](https://github.com/UO-CIT-qiqima/cit281-lab-4)
 [cit281-lab-5](https://github.com/UO-CIT-qiqima/cit281-lab-5)
 [cit281-lab-6](https://github.com/UO-CIT-qiqima/cit281-lab-6)
