@@ -13,10 +13,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [cit281-lab-3](https://github.com/UO-CIT-qiqima/cit281-lab-3)
 
 [cit281-lab-4](https://github.com/UO-CIT-qiqima/cit281-lab-4)
+
 [cit281-lab-5](https://github.com/UO-CIT-qiqima/cit281-lab-5)
+
 [cit281-lab-6](https://github.com/UO-CIT-qiqima/cit281-lab-6)
+
 [cit281-lab-7](https://github.com/UO-CIT-qiqima/cit281-lab-7)
+
 [cit281-lab-8](https://github.com/UO-CIT-qiqima/cit281-lab-8)
+
 [cit281-lab-9](https://github.com/UO-CIT-qiqima/cit281-lab-9)
 
 ### Markdown
