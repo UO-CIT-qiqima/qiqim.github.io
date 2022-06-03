@@ -25,20 +25,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [cit281-lab-9](https://uo-cit-qiqima.github.io/cit281-lab-9/)
 
 
+[cit281-project-1](https://uo-cit-qiqima.github.io/cit281-project-1/)
 
-[cit281-project-1](https://github.com/UO-CIT-qiqima/cit281-project-1)
+[cit281-project-2](https://uo-cit-qiqima.github.io/cit281-project-2/)
 
-[cit281-project-2](https://github.com/UO-CIT-qiqima/cit281-project-2)
+[cit281-project-3](https://uo-cit-qiqima.github.io/cit281-project-3/)
 
-[cit281-project-3](https://github.com/UO-CIT-qiqima/cit281-project-3)
+[cit281-project-4](https://uo-cit-qiqima.github.io/cit281-project-4/)
 
-[cit281-project-4](https://github.com/UO-CIT-qiqima/cit281-project-4)
+[cit281-project-5](https://uo-cit-qiqima.github.io/cit281-project-5/)
 
-[cit281-project-5](https://github.com/UO-CIT-qiqima/cit281-project-5)
+[cit281-project-6](https://uo-cit-qiqima.github.io/cit281-project-6/)
 
-[cit281-project-6](https://github.com/UO-CIT-qiqima/cit281-project-6)
-
-[cit281-project-7](https://github.com/UO-CIT-qiqima/cit281-project-7)
+[cit281-project-7](https://uo-cit-qiqima.github.io/cit281-project-7/)
 
 ### Markdown
 
